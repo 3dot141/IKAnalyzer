@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/iKAnalyzer/iKAnalyzer.iml" filepath="$PROJECT_DIR$/iKAnalyzer/iKAnalyzer.iml" />
+      <module fileurl="file://D:\Programme\GitHub\G_Source\IKAnalyzer\lucene\lucene.iml" filepath="D:\Programme\GitHub\G_Source\IKAnalyzer\lucene\lucene.iml" />
+    </modules>
+  </component>
+</project>
