@@ -2,6 +2,7 @@
 <project version="4">
   <component name="AnalysisUIOptions">
     <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09d2c1c9-ff6b-4d0a-b362-7b3dbd1b7ef8" name="Default" comment="" />
@@ -53,51 +54,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="IKTokenizer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/lucene/IKTokenizer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IKAnalyzer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/lucene/IKAnalyzer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1230">
-              <caret line="71" column="5" lean-forward="false" selection-start-line="71" selection-start-column="5" selection-end-line="71" selection-end-column="5" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-                <element signature="e#1272#1273#0" expanded="false" />
-                <element signature="e#1294#1295#0" expanded="false" />
-                <element signature="e#1340#1341#0" expanded="false" />
-                <element signature="e#1371#1372#0" expanded="false" />
-                <element signature="e#1454#1455#0" expanded="false" />
-                <element signature="e#1472#1473#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IKSegmenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/core/IKSegmenter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="58" column="31" lean-forward="false" selection-start-line="58" selection-start-column="31" selection-end-line="58" selection-end-column="31" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SWMCQueryBuilder.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/query/SWMCQueryBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -114,12 +70,9 @@
       <file leaf-file-name="IKAnalzyerDemo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/sample/IKAnalzyerDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-              <folding>
-                <element signature="n#!!doc" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -127,11 +80,69 @@
       <file leaf-file-name="LuceneIndexAndSearchDemo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/sample/LuceneIndexAndSearchDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="57" column="36" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="37" />
+            <state relative-caret-position="280">
+              <caret line="107" column="20" lean-forward="false" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
               <folding>
                 <element signature="docComment;method#main#0;class#LuceneIndexAndSearchDemo#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iKAnalyzer.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iKAnalyzer/iKAnalyzer.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MANIFEST.MF" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/META-INF/MANIFEST.MF">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DefaultConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/cfg/DefaultConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+              <folding>
+                <element signature="e#3023#3031#0" expanded="true" />
+                <element signature="e#3559#3567#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Dictionary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/dic/Dictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4920">
+              <caret line="197" column="82" lean-forward="false" selection-start-line="197" selection-start-column="82" selection-end-line="197" selection-end-column="82" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#3028#3029#0" expanded="false" />
+                <element signature="e#3078#3079#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="URLClassPath.class" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14640">
+              <caret line="554" column="0" lean-forward="false" selection-start-line="554" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -143,6 +154,10 @@
               <caret line="480" column="21" lean-forward="false" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="false" />
+                <element signature="e#1594#1603#0" expanded="false" />
+                <element signature="e#1650#1657#0" expanded="false" />
+                <element signature="e#1707#1716#0" expanded="false" />
+                <element signature="e#9811#9820#0" expanded="false" />
                 <element signature="e#18450#18451#0" expanded="false" />
                 <element signature="e#18491#18492#0" expanded="false" />
                 <element signature="e#18524#18525#0" expanded="false" />
@@ -464,32 +479,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IKAnalyzer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="IKAnalyzer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="iKAnalyzer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches">
         <subPane>
           <PATH>
@@ -534,16 +523,42 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IKAnalyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="IKAnalyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="iKAnalyzer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15543412" />
     <property name="project.structure.side.proportion" value="0.20461094" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/iKAnalyzer/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../0-Java/J_Example/Arithmetic/3_basic" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="SearchEverywhereHistoryKey" value="boostquery&#9;PSI&#9;JAVA://org.apache.lucene.search.BoostQuery&#10;boost&#9;PSI&#9;JAVA://org.apache.lucene.search.BoostAttributeImpl&#10;multiquery&#9;PSI&#9;JAVA://org.apache.lucene.search.MultiTermQuery&#10;termsenu&#9;PSI&#9;JAVA://org.apache.lucene.index.TermsEnum&#10;Attributesour&#9;PSI&#9;JAVA://org.apache.lucene.util.AttributeSource&#10;Attribu&#9;PSI&#9;JAVA://javax.management.Attribute&#10;Booleanquery&#9;PSI&#9;JAVA://org.apache.lucene.search.BooleanQuery&#10;bool&#9;FILE&#9;jar://D:/Programme/@-Java/J_Lib/03-lucene/lucene-6.6/@-core/lucene-core-6.6.0.jar!/org/apache/lucene/search/BooleanQuery.class&#10;Analyzer&#9;PSI&#9;JAVA://org.apache.lucene.analysis.Analyzer&#10;writerconfig&#9;PSI&#9;JAVA://org.apache.lucene.index.IndexWriterConfig&#10;termsenum&#9;FILE&#9;jar://D:/Programme/@-Java/J_Lib/03-lucene-6.6.0/@-core/lucene-core-6.6.0.jar!/org/apache/lucene/index/TermsEnum.class&#10;document&#9;PSI&#9;JAVA://org.apache.lucene.document.Document&#10;boosts&#9;PSI&#9;JAVA://org.apache.lucene.search.BlendedTermQuery#boosts&#10;multiqu&#9;FILE&#9;jar://D:/Programme/@-Java/J_Lib/03-lucene-6.6.0/@-core/lucene-queryparser-6.6.0.jar!/org/apache/lucene/queryparser/classic/MultiFieldQueryParser.class&#10;termse&#9;PSI&#9;JAVA://org.apache.lucene.index.TermsEnum&#10;getboost&#9;PSI&#9;JAVA://org.apache.lucene.search.BoostQuery#getBoost&#10;norm&#9;PSI&#9;JAVA://org.apache.lucene.analysis.fr.FrenchLightStemmer#norm&#10;setboost&#9;PSI&#9;JAVA://org.apache.lucene.document.Field#setBoost&#10;field&#9;FILE&#9;jar://D:/Programme/@-Java/J_Lib/03-lucene-6.6.0/@-core/lucene-core-6.6.0.jar!/org/apache/lucene/document/Field.class&#10;intpo&#9;PSI&#9;JAVA://org.apache.lucene.document.IntPoint&#10;numericran&#9;FILE&#9;jar://D:/Programme/@-Java/J_Lib/03-lucene-6.6.0/@-core/lucene-core-6.6.0.jar!/org/apache/lucene/search/LegacyNumericRangeQuery.class&#10;dimensionvalues&#9;null&#9;null&#10;newfloatrange&#9;PSI&#9;JAVA://org.apache.lucene.search.LegacyNumericRangeQuery#newFloatRange&#10;rangequery&#9;PSI&#9;JAVA://org.apache.lucene.search.LegacyNumericRangeQuery&#10;numericqu&#9;PSI&#9;JAVA://org.apache.lucene.search.LegacyNumericRangeQuery&#10;multiqueryp&#9;PSI&#9;JAVA://org.apache.lucene.queryparser.classic.MultiFieldQueryParser&#10;querypa&#9;PSI&#9;JAVA://org.apache.lucene.queryparser.classic.QueryParser&#10;dosear&#9;PSI&#9;JAVA://com.sun.jndi.ldap.LdapCtx#doSearch&#10;numericrange&#9;PSI&#9;JAVA://org.apache.lucene.search.LegacyNumericRangeQuery&#10;termqu&#9;PSI&#9;JAVA://org.apache.lucene.search.TermQuery&#10;index&#9;FILE&#9;jar://D:/Programme/@-Java/J_Lib/03-lucene-6.6.0/@-core/lucene-core-6.6.0.jar!/org/apache/lucene/index/IndexWriter.class&#10;longfield&#9;PSI&#9;JAVA://org.apache.lucene.index.StoredFieldVisitor#longField&#10;floatfield&#9;PSI&#9;JAVA://org.apache.lucene.index.StoredFieldVisitor#floatField&#10;lock&#9;PSI&#9;JAVA://java.io.Writer#lock&#10;File&#9;PSI&#9;JAVA://java.io.File&#10;dao&#9;FILE&#9;file://D:/Programme/@-Java/J_workspace/fulltextRerieval/lucene/src/dao/DaoImpl.java" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -696,6 +711,61 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -1070,7 +1140,11 @@
       <workItem from="1500603289524" duration="533000" />
       <workItem from="1500603839456" duration="8932000" />
       <workItem from="1500621042402" duration="4966000" />
-      <workItem from="1500627230200" duration="1082000" />
+      <workItem from="1500627230200" duration="1857000" />
+      <workItem from="1500629161100" duration="48000" />
+      <workItem from="1500630445692" duration="132000" />
+      <workItem from="1503565811088" duration="1428000" />
+      <workItem from="1504348673525" duration="828000" />
     </task>
     <servers />
   </component>
@@ -1107,7 +1181,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51714000" />
+    <option name="totallyTimeSpent" value="54925000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1123,36 +1197,36 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919955" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22886133" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919955" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24464487" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26341203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23283261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35085836" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22585838" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990981" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Jindent" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.319053" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1213,27 +1287,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/cfg/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../J_Lib/03-lucene/lucene-6.6/@-core/lucene-core-6.6.0.jar!/org/apache/lucene/search/BooleanClause.class" />
-    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/vo/Book.java" />
-    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/dao/DaoImpl.java" />
-    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/dao/Dao.java" />
     <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/Index/IndexAction.java" />
     <entry file="jar://$PROJECT_DIR$/../../J_Lib/03-lucene/lucene-6.6/@-core/IK Analyzer 2012FF_hf1/IKAnalyzer2012FF_u1.jar!/org/wltea/analyzer/cfg/Configuration.class" />
     <entry file="jar://$PROJECT_DIR$/lucene/lib/iKAnalyzer.jar!/org/wltea/analyzer/query/IKQueryExpressionParser.class" />
-    <entry file="file://$PROJECT_DIR$/iKAnalyzer/iKAnalyzer.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../J_Lib/03-lucene/lucene-6.6/@-core/IK Analyzer 2012FF_hf1/IKAnalyzer2012FF_u1.jar!/org/wltea/analyzer/lucene/IKAnalyzer.class" />
     <entry file="jar://$PROJECT_DIR$/../../J_Lib/03-lucene/lucene-6.6/@-core/IK Analyzer 2012FF_hf1/IKAnalyzer2012FF_u1.jar!/org/wltea/analyzer/lucene/IKTokenizer.class" />
     <entry file="file://$PROJECT_DIR$/iKAnalyzer/src2/org/wltea/analyzer/cfg/Configuration.java" />
@@ -1330,12 +1386,54 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iKAnalyzer/src2/org/wltea/analyzer/query/SWMCQueryBuilder.java" />
     <entry file="file://$PROJECT_DIR$/iKAnalyzer/src2/org/wltea/analyzer/query/IKQueryExpressionParser.java" />
+    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/query/IKQueryExpressionParser_0.java" />
+    <entry file="file://$PROJECT_DIR$/iKAnalyzer/iKAnalyzer.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/jre/lib/rt.jar!/sun/misc/URLClassPath.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14640">
+          <caret line="554" column="0" lean-forward="false" selection-start-line="554" selection-start-column="0" selection-end-line="554" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/dic/Dictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4920">
+          <caret line="197" column="82" lean-forward="false" selection-start-line="197" selection-start-column="82" selection-end-line="197" selection-end-column="82" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3028#3029#0" expanded="false" />
+            <element signature="e#3078#3079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/query/IKQueryExpressionParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14220">
           <caret line="480" column="21" lean-forward="false" selection-start-line="480" selection-start-column="21" selection-end-line="480" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#1594#1603#0" expanded="false" />
+            <element signature="e#1650#1657#0" expanded="false" />
+            <element signature="e#1707#1716#0" expanded="false" />
+            <element signature="e#9811#9820#0" expanded="false" />
             <element signature="e#18450#18451#0" expanded="false" />
             <element signature="e#18491#18492#0" expanded="false" />
             <element signature="e#18524#18525#0" expanded="false" />
@@ -1346,22 +1444,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/query/IKQueryExpressionParser_0.java" />
+    <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/cfg/DefaultConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="45" column="32" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="32" />
+          <folding>
+            <element signature="e#3023#3031#0" expanded="true" />
+            <element signature="e#3559#3567#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/sample/IKAnalzyerDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="40" column="26" lean-forward="false" selection-start-line="40" selection-start-column="26" selection-end-line="40" selection-end-column="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/iKAnalyzer/lib/lucene-core-6.6.0.jar!/org/apache/lucene/search/TopDocs.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5381">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/iKAnalyzer/src/org/wltea/analyzer/sample/LuceneIndexAndSearchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="57" column="36" lean-forward="false" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="37" />
+        <state relative-caret-position="280">
+          <caret line="107" column="20" lean-forward="false" selection-start-line="107" selection-start-column="20" selection-end-line="107" selection-end-column="20" />
           <folding>
             <element signature="docComment;method#main#0;class#LuceneIndexAndSearchDemo#0" expanded="false" />
           </folding>
@@ -1371,6 +1484,17 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20461094" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />

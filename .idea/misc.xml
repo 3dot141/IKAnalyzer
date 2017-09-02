@@ -55,7 +55,7 @@
     <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
     <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
     <option name="OPTION_DEPRECATED_LIST" value="true" />
-    <option name="OTHER_OPTIONS" value="-encoding UTF-8 -charset UTF-8 -windowtitle &quot;IKAnalyzer分词器&quot; " />
+    <option name="OTHER_OPTIONS" value="-encoding UTF-8 -docencoding UTF-8 -charset UTF-8 -windowtitle &quot;IKAnalyzer分词器&quot; " />
     <option name="HEAP_SIZE" />
     <option name="LOCALE" value="zh_CN" />
     <option name="OPEN_IN_BROWSER" value="false" />
